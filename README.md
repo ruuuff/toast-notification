@@ -11,6 +11,6 @@ O projeto consiste em um botão que dispara notificações no canto da tela com 
 # 🖥️ Resultado
 
 <div align="center">
-  <img alt="https://i.imgur.com/p9xQSAC.png" src="Toast Notification" width="450px">
+  <img alt="Toast Notification" src="https://i.imgur.com/p9xQSAC.png" width="450px">
   <p>Confira o resultado: <a href="https://toast-notification-ruuuff.netlify.app">toast-notification-ruuuff</a></p>
 </div>
